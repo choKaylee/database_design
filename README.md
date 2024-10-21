@@ -4,7 +4,7 @@
 * Led the setup of SQL database and authored report to optimize sales, inventory turnover, and user engagement in a simulated environment of supporting owner, customers, and analysts within the service <br>
 
 
-**Upon successfully completing Databases and Data Modeling class, I am able to conduct the following:** <br>
+**Upon successfully completing Databases and Data Modeling project, I am able to conduct the following:** <br>
 * describe the rationale for database management systems<br>
 *	communicate the various form of data integrity (domain, entity and referential)<br>
 *	design an effective schema (including normalization)<br>
